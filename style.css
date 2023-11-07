@@ -1,0 +1,6 @@
+body {
+   color: red; 
+}
+thead,tfoot {
+   background-color: antiquewhite;
+}
